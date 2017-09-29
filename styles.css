@@ -1,0 +1,24 @@
+*{box-sizing: border-box;}
+body{
+    background-color:#e2d3e2;
+}
+h1{
+    color:#360438;
+    text-align: center;
+}
+.friends{
+    background-color: #360438;
+    color:#e2d3e2;
+    width:90%;
+    margin: 0 auto;
+    align-content: center;
+}
+.friends h3{
+    text-transform: uppercase;
+}
+button{
+    width: 30%;
+    border:solid #360438 thick;
+    border-radius: 5px;
+    background-color: pink;
+}
